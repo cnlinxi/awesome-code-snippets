@@ -4,7 +4,7 @@ This is especially useful for users in China
 
 ### Usage
 
--  For MacOs/iOS
+-  For MacOS/iOS
 
 `chmod +x install_webrtc_macos.sh`
 `./install_webrtc_macos.sh`
@@ -13,3 +13,7 @@ This is especially useful for users in China
 
 `chmod +x install_webrtc_linux.sh`
 `./install_webrtc_linux.sh`
+
+### Reference
+
+[WebRTC Mirror](https://webrtc.org.cn/mirror/)
